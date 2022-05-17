@@ -1,0 +1,43 @@
+<html>
+<head>
+    <title>Memória Játék</title>
+    <script type="text/javascript" src="memoria.js"></script>
+    <link rel="stylesheet" type="text/css" href="memoria.css">
+</head>
+<body onLoad="kever();">
+    <table align="center">
+        <tr>
+            <td>
+                
+            </td>
+            <td>
+                <form name="tick" action="index.html" method="post">
+                    <table id="jatek">
+                        <tr>
+                            <td height="30" colspan="2" align="center">
+                                <b>Memória játék</b>
+                                <hr>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="120" height="26">Lépések száma</td>
+                            <td width="68" align="center"><input type="text" id="szam"></td>
+                        </tr>
+                        <tr><tdheight="26">Idő</td>
+                            <td align="center"><input type="text" id="clock" size="2"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><div id="show"></div> </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="right" valign="bottom">
+                                <input name="submit" type="submit" id="kuld" value="Új játék">
+                            </td>
+                            </tr>
+                        </table>
+                    </form>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
