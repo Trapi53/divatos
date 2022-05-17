@@ -1,20 +1,174 @@
 {
     "zerowaste": [
         {
-            "keszito neve": "Árokszállási Renáta Andrea",
-            "modell neve": "Árokszállási Renáta Andrea",
-            "fotos neve": "fehér",
-            "ruhaleirasa": "2020.02.20",
-            "kollekcio": "vastag"
+            "cim": "kep1.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep2.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep3.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep4.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep5.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep6.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep7.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep8.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep9.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep10.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep11.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep12.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
         }
     ],
-    "kreativ": [
+    "inges": [
         {
-            "keszito neve": "Blöki",
-            "modell neve": "kuvasz",
-            "fotos neve": "fehér",
-            "ruhaleirasa": "2020.02.20",
-            "kollekcio": "vastag"
+            "cim": "kep13.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep14.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep15.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep16.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep17.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep18.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep19.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep20.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep21.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep22.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep23.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
+        },
+        {
+            "cim": "kep24.jpg",
+            "szerzo": "",
+            "fotosneve": "",
+            "modellneve": "",
+            "kollekcio": []
         }
     ]
 }
