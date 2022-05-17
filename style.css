@@ -1,0 +1,91 @@
+body{
+
+    background-image: url("kepek/hatter.png");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: auto;
+    max-width: 1000px;
+
+}
+
+main{
+
+    
+    background-color: aliceblue;
+
+}
+
+header{
+
+    
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+  
+nav li {
+    float: left;
+}
+  
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+nav li a:hover {
+    background-color: #111;
+}
+
+header{
+
+
+
+}
+
+.aktiv{
+
+    background-color: rgb(97, 0, 97);
+    
+
+}
+
+footer{
+
+    color: beige;
+    background-color: #333;
+    padding: 5px;
+
+}
+
+.teli{
+
+    background-color: rgb(184, 184, 184);
+    padding: 5px;
+
+}
+
+.felteli{
+
+    background-color: rgb(207, 207, 207);
+    padding: 5px;
+
+}
+
+.cim{
+
+    background-color: #333;
+    color: aliceblue;
+    padding: 5px;
+
+}
+
