@@ -11,41 +11,45 @@ body{
 }
 
 main{
-
-    
-    background-color: aliceblue;
-
+    background-color: beige;
 }
-
-header {
-    margin-top: 60px;
-    width: 100%;
-    background-color: transparent;
-    height: 150px;
-  }
 
 
 ul li {
     list-style-type: none;
-  }
-  nav ul {
+
+
+}
+nav ul {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     padding: 0px;
     padding-top: 15px;
-    margin: 0px;
-  }
-  nav a {
+    margin: auto;   
+        text-align: center;
+
+    
+}
+nav a {
     color: black;
     text-decoration: none;
     font-weight: bold;
-  }
-  nav {
+    font-size: 25px;
+}
+nav {
     width: 100%;
     height: 50px;
     margin: auto;
+    text-align: center;
   }
+header {
+    margin-top: 15px;
+    width: 100%;
+    background-color: transparent;
+    height: 100px;
+    text-align: center;
+}
 
 .aktiv{
 
@@ -125,3 +129,15 @@ footer{
 #tesztkerdesek {
     margin-bottom: 50px;
 }
+
+
+@media screen and (max-width: 300px) {
+    main {
+      max-width: 300px;
+    }
+  
+    section div {
+      width: 80%;
+    }
+  }
+  
