@@ -6,33 +6,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <script src="teszt.js"></script>
+    <title>Tesztkérdések</title>
+
+    <style>
+        .show-answers .correct {
+            color: green;
+        }
+        
+        .show-answers .incorrect {
+            color: red;
+        }
+    </style>
 </head>
-<body>
-    
-    <main>
-        <header>
+<body><main>
+        
             <nav>
                 <ul>
-                    <li><a href="index.html" >Főoldal</a></li>
-                    <li><a href="tesztek.html" class="aktiv">Tesztek</a></li>
-                    <li><a href="galeria.html">Galéria</a></li>
+                    <li><a href="index.html" class="gomb">Főoldal</a></li>
+                    <li><a href="tesztek.html" class="gomb">Tesztek</a></li>
+                    <li><a href="galeria.html" class="gomb">Galéria</a></li>
                     <li><a href=""></a></li>
                     <li><a href=""></a></li>
                 </ul>
             </nav>
-        </header>
-        <div class="teli">
-            <article>
-                <p>TESZTEK</p>
-            </article>
-        </div>
-        <aside>
+            <header>
+                <h1>Tesztkérdések</h1>
 
-        </aside>
-        <footer>
-            <p>all rights reserved c egy karikában</p>
-        </footer>
-    </main>
+            </header>
+        <section id="tesztkerdesek">
+
     
+            <div id="valasztas">
+                <button id="altsuli" class="gomb">Általános suli</button>
+                <button id="kozsuli" class="gomb">Középsuli</button>
+                <button id="felnot" class="gomb">Felnőtteknek</button>
+            </div>
+            <section id="tesztes">
+            </section>
+        </section>
+    </main>
 </body>
 </html>

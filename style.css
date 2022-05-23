@@ -17,40 +17,35 @@ main{
 
 }
 
-header{
+header {
+    margin-top: 60px;
+    width: 100%;
+    background-color: transparent;
+    height: 150px;
+  }
 
-    
-}
 
-nav ul {
+ul li {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-  
-nav li {
-    float: left;
-}
-  
-nav li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
+  }
+  nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 0px;
+    padding-top: 15px;
+    margin: 0px;
+  }
+  nav a {
+    color: black;
     text-decoration: none;
-}
-  
-nav li a:hover {
-    background-color: #111;
-}
-
-header{
-
-
-
-}
+    font-weight: bold;
+  }
+  nav {
+    width: 100%;
+    height: 50px;
+    margin: auto;
+  }
 
 .aktiv{
 
@@ -89,3 +84,44 @@ footer{
 
 }
 
+#tesztkerdesek #valasztas {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+#tesztkerdesek #tesztes {
+    margin-left: 35px;
+}
+
+#tesztkerdesek .gomb {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    text-align: center;
+    border: 4px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    background-color: rgb(245, 227, 165);
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    height: 40px;
+    text-align: center;
+    padding-top: 2px ;
+    font-size: 25px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#tesztkerdesek .gomb:hover {
+    background-color: rgb(237, 205, 101);
+} 
+
+#tesztkerdesek .gomb:active {
+    background-color: rgb(252, 215, 91);
+} 
+
+#tesztkerdesek {
+    margin-bottom: 50px;
+}
